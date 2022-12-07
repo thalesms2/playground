@@ -1,6 +1,6 @@
 import React from 'react'
-import styles from './Nav.module.css'
-import logo from '../../public/pochita.png'
+import styles from '../styles/Nav.module.css'
+import logo from '../assets/pochita.png'
 
 const Nav: React.FC = () => {
 
